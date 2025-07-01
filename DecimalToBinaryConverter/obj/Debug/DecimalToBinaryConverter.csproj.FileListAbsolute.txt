@@ -1,0 +1,16 @@
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\bin\Debug\DecimalToBinaryConverter.exe.config
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\bin\Debug\DecimalToBinaryConverter.exe
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\bin\Debug\DecimalToBinaryConverter.pdb
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\bin\Debug\aa\DecimalToBinaryConverter.resources.dll
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\bin\Debug\lkt-US\DecimalToBinaryConverter.resources.dll
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.resources
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Properties.Resources.resources
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.aa.resources
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.lkt-US.resources
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\aa\DecimalToBinaryConverter.resources.dll
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\lkt-US\DecimalToBinaryConverter.resources.dll
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.exe
+C:\Users\Jay\source\repos\DecimalToBinaryConverter\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.pdb

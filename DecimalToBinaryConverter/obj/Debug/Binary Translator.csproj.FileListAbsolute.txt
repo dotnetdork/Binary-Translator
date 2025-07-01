@@ -1,0 +1,48 @@
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.exe.config
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.exe
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.pdb
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\bin\Debug\aa\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\bin\Debug\lkt-US\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.resources
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.Properties.Resources.resources
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.aa.resources
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.lkt-US.resources
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\aa\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\lkt-US\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.exe
+C:\Users\Jay\source\repos\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.pdb
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.exe.config
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.exe
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.pdb
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\aa\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\lkt-US\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.resources
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.Properties.Resources.resources
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.aa.resources
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.lkt-US.resources
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\aa\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\lkt-US\BinaryTranslator.resources.dll
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.exe
+C:\Users\Jay\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.pdb
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.exe.config
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.exe
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\BinaryTranslator.pdb
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\aa\BinaryTranslator.resources.dll
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\bin\Debug\lkt-US\BinaryTranslator.resources.dll
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.AssemblyReference.cache
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.resources
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.Properties.Resources.resources
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.aa.resources
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\DecimalToBinaryConverter.Form1.lkt-US.resources
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.GenerateResource.cache
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\Binary Translator.csproj.CoreCompileInputs.cache
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\aa\BinaryTranslator.resources.dll
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\lkt-US\BinaryTranslator.resources.dll
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.exe
+C:\Users\voido\source\repos\Other Projects\Binary Translator\DecimalToBinaryConverter\obj\Debug\BinaryTranslator.pdb

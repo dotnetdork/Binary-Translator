@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Translator", "DecimalToBinaryConverter\Binary Translator.csproj", "{7FC9E786-0612-4C46-9DB6-38DD100AA888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC9E786-0612-4C46-9DB6-38DD100AA888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC9E786-0612-4C46-9DB6-38DD100AA888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC9E786-0612-4C46-9DB6-38DD100AA888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC9E786-0612-4C46-9DB6-38DD100AA888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
