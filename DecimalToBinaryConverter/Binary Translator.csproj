@@ -73,12 +73,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.aa.resx">
+    <!-- <EmbeddedResource Include="Form1.aa.resx">
+      <WithCulture>true</WithCulture>
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.lkt-US.resx">
+      <WithCulture>true</WithCulture>
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
+    </EmbeddedResource> -->
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
